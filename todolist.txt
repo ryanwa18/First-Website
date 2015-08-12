@@ -1,0 +1,9 @@
+To Do List:
+
+- Clean Up Code
+- Commit to gitHub
+- Add a Home button
+- Add linked/github links to rest of the pages
+- Make it look much better
+- Add more to portfolio.
+- Get a new “About” picture.
